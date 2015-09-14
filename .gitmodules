@@ -1,0 +1,3 @@
+[submodule "alto-doc"]
+	path = alto-doc
+	url = git@github.com:cs512/alto-doc.git
